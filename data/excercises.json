@@ -1,0 +1,62 @@
+[
+    {
+        "Name": "Inclined Dumbell Press",
+        "Description": "Set incline to 15degrees, and press with chest.",
+        "Tracking type": 1
+    },
+    {
+        "Name": "Dumbell Overhead Press",
+        "Description": "Set incline to just below vertical, and press with shoulders.",
+        "Tracking type": 1
+    },
+    {
+        "Name": "High Cable Flies",
+        "Description": "Set pulleys at shoulder height or slightly above, and lock out elbows while pressing.",
+        "Tracking type": 1
+    },
+    {
+        "Name": "Lateral Raises",
+        "Description": "Bring out arms laterally, in line with shoulder joint.",
+        "Tracking type": 1
+    },
+    {
+        "Name": "Tricep Overhead Extension",
+        "Description": "Vetically seated, point elbow near-perpendicular to the ground, and extend arm upwards.",
+        "Tracking type": 1
+    },
+    {
+        "Name": "Tricep Pushdown",
+        "Description": "Using a rope or a bar, press down with elbows locked in, to the sides.",
+        "Tracking type": 1
+    },
+    {
+        "Name": "Lateral Pulldown",
+        "Description": "Using minmial arm strength, pull elbows down to waist while engaging lats.",
+        "Tracking type": 1
+    },
+    {
+        "Name": "Cable rows",
+        "Description": "Back upright, pull weight without motion of lower back. Focus on midsection and lat engagement.",
+        "Tracking type": 1
+    },
+    {
+        "Name": "Preacher Curls",
+        "Description": "Using an EZ Bar on a preacher bench, focus on bicep contraction and negatives.",
+        "Tracking type": 1
+    },
+    {
+        "Name": " Dumbell Hammer Curl",
+        "Description": "Elbows nearly locked in, bring weight up to chest with a sideways grip on the dumbells.",
+        "Tracking type": 1
+    },
+    {
+        "Name": "Reverse Grip EZ Bar Curls",
+        "Description": "Using an EZ Bar and elbows tucked in, pull weight up using forearms.",
+        "Tracking type": 1
+    },
+    {
+        "Name": "Dumbell Wrist Curls",
+        "Description": "With weights to the sides, curl the weight soleley with your fingers, for forearm flexion.",
+        "Tracking type": 1
+    }
+]

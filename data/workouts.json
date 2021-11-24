@@ -1,0 +1,12 @@
+[
+    {
+        "Name": "Push Day",
+        "Description": "Target Chest, Shoulders and Triceps.",
+        "exercises": ["619cf391d52582ff497244a7","619cf391d52582ff497244a8","619cf391d52582ff497244a9","619cf391d52582ff497244aa","619cf391d52582ff497244ab","619cf391d52582ff497244ac"]
+    },
+    {
+        "Name": "Pull Day",
+        "Description": "Target Back, Forearms and Biceps",
+        "exercises": ["619cf391d52582ff497244ad","619cf391d52582ff497244ae","619cf391d52582ff497244af","619cf391d52582ff497244b0","619cf391d52582ff497244b1","619cf391d52582ff497244b2"]
+    }
+]
