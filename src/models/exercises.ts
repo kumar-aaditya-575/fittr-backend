@@ -12,4 +12,4 @@ const schema = new Schema<ExerciseInterface>({
     "Tracking type": { type:Number , required: true}
 });
 const Exercise = model("Exercise", schema);
-export default Exercise;
+export {Exercise, ExerciseInterface } ;
