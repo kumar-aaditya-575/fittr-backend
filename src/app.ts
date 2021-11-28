@@ -7,6 +7,9 @@ import routes from "./routes/v1";
 //   res.send("Hello world");
 // });
 
+// app.use()
+import bodyparser from "body-parser";
+app.use(bodyparser.json())
 app.use("/v1", routes);
 
 export default app;
